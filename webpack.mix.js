@@ -13,3 +13,12 @@ const mix = require('laravel-mix');
 
 mix.js('resources/js/app.js', 'public/js')
    .sass('resources/sass/app.scss', 'public/css');
+mix.styles([
+    'resources/css/bootstrap-a.css',
+    'resources/css/bootstrap.min.css',
+    'resources/css/font-awesome.min.css',
+    'resources/css/ionicons.min.css',
+    'resources/css/signup.css',
+    'resources/css/style-a.css',
+    'resources/css/style.css',
+    ],'public/css/app.css');
