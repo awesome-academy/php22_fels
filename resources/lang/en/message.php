@@ -13,4 +13,9 @@ return [
     'empty' => '',
     'all_btn' => 'All',
     'course_name' => 'Course Name',
+    'forgot_password' => 'Forgot password ?',
+    'username' => 'User Name',
+    'email' => 'Email',
+    'password' => 'Password',
+    'password_confirm' => 'Password Confirm',
 ];

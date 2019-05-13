@@ -160,3 +160,7 @@ button.social-signin.twitter {
 button.social-signin.google {
   background: #DD4B39;
 }
+
+.container_signup {
+  margin-top: 10%
+}
